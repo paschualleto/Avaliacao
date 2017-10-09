@@ -1,0 +1,8 @@
+F:\visual\Avaliacao\Avaliacao.BLL\bin\Debug\Avaliacao.BLL.dll
+F:\visual\Avaliacao\Avaliacao.BLL\bin\Debug\Avaliacao.BLL.pdb
+F:\visual\Avaliacao\Avaliacao.BLL\obj\Debug\Avaliacao.BLL.csprojResolveAssemblyReference.cache
+F:\visual\Avaliacao\Avaliacao.BLL\obj\Debug\Avaliacao.BLL.csproj.CoreCompileInputs.cache
+F:\visual\Avaliacao\Avaliacao.BLL\obj\Debug\Avaliacao.BLL.dll
+F:\visual\Avaliacao\Avaliacao.BLL\obj\Debug\Avaliacao.BLL.pdb
+F:\visual\Avaliacao\Avaliacao.BLL\bin\Debug\Avaliacao.Entidade.dll
+F:\visual\Avaliacao\Avaliacao.BLL\bin\Debug\Avaliacao.Entidade.pdb
